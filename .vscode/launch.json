@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "d",
+            "request": "launch",
+            "mainClass": "d",
+            "projectName": "hashi-java_d7086164"
+        },
+        {
+            "type": "java",
             "name": "run",
             "request": "launch",
             "mainClass": "run",
